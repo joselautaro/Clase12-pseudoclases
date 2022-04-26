@@ -1,0 +1,44 @@
+/* PSEUDOCLASE ROOT (SOLO EN CSS) */
+/* La pseudo-clase :root de CSS selecciona el elemento raíz de un árbol que representa el documento. En HTML, :root representa el elemento <html> y es idéntico al selector html, excepto que su especificidad es mayor. */
+/* :root {
+    background: yellow;
+} */
+
+/* PSEUDO CLASE FIRST CHILD */
+/* Represeta el primer elemento entre un grupo de elementos hermanos */
+/* p:first-child {
+    color: lime;
+} */
+
+
+/* ============================================ */
+
+/* last child */
+/* Representa el ultimo hijo de elementos seleccionados */
+/* p:last-child {
+    color: lime;
+    background-color: black;
+    padding: 5px;
+} */
+
+
+/* =============================================== */
+/* LAST OF TYPE */
+/* Represetan el ultimo elemento de su tipo entre un grupo de hermanos  */
+/* p:last-of-type {
+    color: red;
+    font-style: italic;
+} */
+
+/* ================================================= */
+
+/* :ACTIVE  */
+/* El enlace va a cambiar de color SOLO cuando se haga click en el  */
+/* a:active { 
+    color: lime; 
+} */
+
+
+/* =========================== */
+
+  
